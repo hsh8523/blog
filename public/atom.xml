@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Troy</title>
+  <subtitle>路漫漫，水迢迢</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hsh8523.github.io/"/>
+  <updated>2017-04-01T10:27:51.612Z</updated>
+  <id>https://hsh8523.github.io/</id>
+  
+  <author>
+    <name>Troy</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TinkPop 文档 3.2.4</title>
+    <link href="https://hsh8523.github.io/2017/04/01/TinkerPop3-%E6%96%87%E6%A1%A3-3-2-4/"/>
+    <id>https://hsh8523.github.io/2017/04/01/TinkerPop3-文档-3-2-4/</id>
+    <published>2017-04-01T07:38:29.000Z</published>
+    <updated>2017-04-01T10:27:51.612Z</updated>
+    
+    <content type="html"><![CDATA[<p>In the beginning…</p>
+<h1 id="TinkerPop0"><a href="#TinkerPop0" class="headerlink" title="TinkerPop0"></a>TinkerPop0</h1><p>  Gremlin 意识到，他做得越多，他创造的想法就越多。他创造的想法越多，与们关联的就越多。Into a concatenation of that which he accepted wholeheartedly and that which perhaps may ultimately come to be through concerted will, a world took form which was seemingly separate from his own realization of it. However, the world birthed could not bear its own weight without the logic Gremlin had come to accept — the logic of left is not right, up not down, and west far from east unless one goes the other way. Gremlin’s realization required Gremlin’s realization.世界只是他曾经有过的一个想法——The TinkerPop.<br><span style="width: 220px; height: 129px; padding: 0px 0px 0px 0px;"><br><img src="/2017/04/01/TinkerPop3-文档-3-2-4/gremlin-logo.png" alt="logo"><br></span><br><a id="more"></a></p>
+<hr>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;In the beginning…&lt;/p&gt;
+&lt;h1 id=&quot;TinkerPop0&quot;&gt;&lt;a href=&quot;#TinkerPop0&quot; class=&quot;headerlink&quot; title=&quot;TinkerPop0&quot;&gt;&lt;/a&gt;TinkerPop0&lt;/h1&gt;&lt;p&gt;  Gremlin 意识到，他做得越多，他创造的想法就越多。他创造的想法越多，与们关联的就越多。Into a concatenation of that which he accepted wholeheartedly and that which perhaps may ultimately come to be through concerted will, a world took form which was seemingly separate from his own realization of it. However, the world birthed could not bear its own weight without the logic Gremlin had come to accept — the logic of left is not right, up not down, and west far from east unless one goes the other way. Gremlin’s realization required Gremlin’s realization.世界只是他曾经有过的一个想法——The TinkerPop.&lt;br&gt;&lt;span style=&quot;width: 220px; height: 129px; padding: 0px 0px 0px 0px;&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2017/04/01/TinkerPop3-文档-3-2-4/gremlin-logo.png&quot; alt=&quot;logo&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Graph" scheme="https://hsh8523.github.io/categories/Graph/"/>
+    
+    
+      <category term="Graph" scheme="https://hsh8523.github.io/tags/Graph/"/>
+    
+      <category term="TinkerPop" scheme="https://hsh8523.github.io/tags/TinkerPop/"/>
+    
+  </entry>
+  
+</feed>

@@ -4,9 +4,9 @@
 
 # Site
 title: Troy
-subtitle: 路漫漫，水迢迢
+subtitle: 路漫漫，水迢迢 
 description: 路漫漫，水迢迢
-author: 路漫漫，水迢迢
+author: Troy
 language: zh-Hans
 timezone:
 avatar: https://avatars1.githubusercontent.com/u/10528403?v=3&s=460
@@ -44,7 +44,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -58,10 +58,18 @@ default_category: uncategorized
 category_map:
 tag_map:
 
+# Extensions
+## Plugins: http://hexo.io/plugins/
+#RSS订阅
+plugin:
+- hexo-generator-feed
+
+#Feed Atom
 feed:
-  type: atom       #feed 类型 (atom/rss2)
-  path: atom.xml   #rss 路径
-  limit: 20        #在 rss 中最多生成的文章数(0显示所有)
+type: atom
+path: /atom.xml
+limit: 20
+
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
